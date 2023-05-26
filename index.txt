@@ -1,1 +1,1 @@
-this is the basic version of my software.
+this is the basic version of my software.this is the next part of my app.
